@@ -57,7 +57,7 @@ To use this program, we must use **Microsoft Visual Studio**.
   - Build your project
   - Go to: [Path_From_Your_Computer]\Forbidden_Barrage_ransomware\x64\Debug
   - You should find the .exe file
-  - If you want to move it and use it in another folder, make sure you move
+  - If you want to move it and use it in another folder, make sure you move all the .dll files with it
 
 ###
 project made by KSt3ve
